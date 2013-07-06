@@ -13,7 +13,7 @@ char szAppName[] = "Keygen";
 /*
  * About dialog's text
  */
-char szAbout[] = "Fab1o's keygen base.";
+char szAbout[] = "Fab1o's keygen base";
 
 /*
  * Key variable
